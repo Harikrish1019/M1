@@ -26,8 +26,7 @@ int main() {
 ```
 ## OUTPUT:
 
-![alt text](../437887820-8abdcff7-716c-4b3b-b041-d0e675dc1b86.png)
-
+![437887820-8abdcff7-716c-4b3b-b041-d0e675dc1b86](https://github.com/user-attachments/assets/a0227d98-2482-4175-84b4-b667cc40a3bb)
 
 
 
@@ -83,7 +82,7 @@ int main ()
 
 
 
-![alt text](../437888109-151b1934-91eb-4dd5-9a8b-48b858eae8d0.png)
+![437888109-151b1934-91eb-4dd5-9a8b-48b858eae8d0](https://github.com/user-attachments/assets/7209c030-1548-433c-9c89-f68cad7bad23)
 
 
 
@@ -130,7 +129,8 @@ int main() {
 
 ```
 ## OUTPUT:
-![alt text](../437888301-fb6a2acb-37a3-4717-b9ab-08c96176aaf4.png)
+
+![437888301-fb6a2acb-37a3-4717-b9ab-08c96176aaf4](https://github.com/user-attachments/assets/fcd6b408-e089-4267-89b8-e257d4546dca)
 
 
 
@@ -181,10 +181,11 @@ int main() {
 ## OUTPUT:
 
 
-![alt text](../437888333-7526bee2-ddd7-4513-a0e3-99d375d7a6fb.png)
+![437888333-7526bee2-ddd7-4513-a0e3-99d375d7a6fb](https://github.com/user-attachments/assets/0ea30146-05d1-416c-adb0-e5865a41a0b4)
 
 
-![alt text](../437888341-2d022e24-5a9b-484f-84ab-6fa828dfa3cb.png)
+
+![437888341-2d022e24-5a9b-484f-84ab-6fa828dfa3cb](https://github.com/user-attachments/assets/5efc4430-369c-489d-aead-acd890cc4b0b)
 
 
 
@@ -249,7 +250,7 @@ int main()
 ## OUTPUT:
 
 
-![alt text](../437888435-70562b39-e69a-4526-8ea3-3c96d4ce73f8.png)
+![437888435-70562b39-e69a-4526-8ea3-3c96d4ce73f8](https://github.com/user-attachments/assets/18f3482a-fa34-42cc-9295-f2fd85276769)
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
