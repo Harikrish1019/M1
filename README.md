@@ -193,7 +193,7 @@ int main() {
 	
 
 ## RESULT:
-Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
+Thus the progrram to check whether the input value is equal to 1 using simple if statement has been executed successfully
 
 
 
